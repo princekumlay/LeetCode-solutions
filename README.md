@@ -67,4 +67,12 @@ Welcome to my personal repository of **LeetCode** solutions! Here, I track my pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/princekumlay/LeetCode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/princekumlay/LeetCode-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/princekumlay/LeetCode-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 <!---LeetCode Topics End-->
