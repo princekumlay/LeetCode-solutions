@@ -52,3 +52,19 @@ Welcome to my personal repository of **LeetCode** solutions! Here, I track my pr
   [ ] Complete 50 problems
   [ ] Complete 100 problems
   [ ] Master Graph & Dynamic Programming patterns
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/princekumlay/LeetCode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/princekumlay/LeetCode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/princekumlay/LeetCode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+<!---LeetCode Topics End-->
