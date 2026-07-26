@@ -75,4 +75,8 @@ Welcome to my personal repository of **LeetCode** solutions! Here, I track my pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/princekumlay/LeetCode-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1108-defanging-an-ip-address](https://github.com/princekumlay/LeetCode-solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 <!---LeetCode Topics End-->
