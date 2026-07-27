@@ -60,6 +60,7 @@ Welcome to my personal repository of **LeetCode** solutions! Here, I track my pr
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/princekumlay/LeetCode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/princekumlay/LeetCode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0066-plus-one](https://github.com/princekumlay/LeetCode-solutions/tree/main/0066-plus-one/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@ Welcome to my personal repository of **LeetCode** solutions! Here, I track my pr
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/princekumlay/LeetCode-solutions/tree/main/0066-plus-one/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/princekumlay/LeetCode-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
