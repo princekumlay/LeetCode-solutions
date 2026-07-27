@@ -12,17 +12,13 @@ def collect_problems():
     return problems
 
 def generate_solved_table(problems):
-    rows = []
-    for p in problems:
-        rows.append(f"| {p} | [{p}](./{p}) | O(N) | O(1) |")
-    header = "| # | Problem Title | Solution Link | Time Complexity | Space Complexity |\n|---|---|---|---|---|"
+    header = "| # | Problem Title | Solution Link |\n|---|---|---|"
+    rows = [f"| {p} | {p.replace('-', ' ').title()} | [{p}](./{p}) |" for p in problems]
     return header + "\n" + "\n".join(rows)
 
 def generate_topics_table(problems):
-    rows = []
-    for p in problems:
-        rows.append(f"| [{p}](./{p}) | Easy |")
     header = "| Problem Name | Difficulty |\n| ------- | ------- |"
+    rows = [f"| [{p}](./{p}) | Easy |" for p in problems]
     return header + "\n" + "\n".join(rows)
 
 def update_section(content, section_title, new_table):
@@ -41,8 +37,9 @@ def main():
     solved_table = generate_solved_table(problems)
     topics_table = generate_topics_table(problems)
 
+    # Match your exact section titles
     updated = update_section(content, "🚀 Solved Problems", solved_table)
-    updated = update_section(updated, "🏷️ LeetCode Topics", topics_table)
+    updated = update_section(updated, "LeetCode Topics", topics_table)
 
     with open('README.md', 'w', encoding='utf-8') as f:
         f.write(updated)
