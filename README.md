@@ -52,3 +52,23 @@ Automatically updated list of solved problems:
 ...
 ├── update_readme.py         # Python script to automatically update the README
 └── README.md                # Project documentation
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/princekumlay/LeetCode-solutions/tree/main/0067-add-binary/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/princekumlay/LeetCode-solutions/tree/main/0067-add-binary/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/princekumlay/LeetCode-solutions/tree/main/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/princekumlay/LeetCode-solutions/tree/main/0067-add-binary/) | Easy |
+<!---LeetCode Topics End-->
