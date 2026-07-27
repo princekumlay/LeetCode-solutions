@@ -58,6 +58,7 @@ Welcome to my personal repository of **LeetCode** solutions! Here, I track my pr
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/princekumlay/LeetCode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/princekumlay/LeetCode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -79,4 +80,8 @@ Welcome to my personal repository of **LeetCode** solutions! Here, I track my pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1108-defanging-an-ip-address](https://github.com/princekumlay/LeetCode-solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/princekumlay/LeetCode-solutions/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
