@@ -21,6 +21,7 @@ This repository contains clean and well-structured C++ solutions to various Leet
 
 | # | Problem Title | Solution Link |
 |---|---|---|
+| . | . | [.](./.) |
 | 0009-palindrome-number | 0009 Palindrome Number | [0009-palindrome-number](./0009-palindrome-number) |
 | 0013-roman-to-integer | 0013 Roman To Integer | [0013-roman-to-integer](./0013-roman-to-integer) |
 | 0035-search-insert-position | 0035 Search Insert Position | [0035-search-insert-position](./0035-search-insert-position) |
