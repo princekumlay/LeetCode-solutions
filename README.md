@@ -52,8 +52,7 @@ Automatically updated list of solved problems:
 ...
 ├── update_readme.py         # Python script to automatically update the README
 └── README.md                # Project documentation
-
-<!---LeetCode Topics Start-->
+```
 # LeetCode Topics
 ## Math
 | Problem Name | Difficulty |
@@ -71,4 +70,3 @@ Automatically updated list of solved problems:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/princekumlay/LeetCode-solutions/tree/main/0067-add-binary/) | Easy |
-<!---LeetCode Topics End-->
