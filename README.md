@@ -43,7 +43,6 @@ This repository contains clean and well-structured C++ solutions to various Leet
 | 3536-maximum-product-of-two-digits | 3536 Maximum Product Of Two Digits | [3536-maximum-product-of-two-digits](./3536-maximum-product-of-two-digits) |
 
 
-# LeetCode Topics
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
