@@ -19,28 +19,28 @@ This repository contains clean and well-structured C++ solutions to various Leet
 
 ## 🚀 Solved Problems
 
-Automatically updated list of solved problems:
-
 | # | Problem Title | Solution Link | Time Complexity | Space Complexity |
 |---|---|---|---|---|
-| 0009 | Palindrome Number | [0009-palindrome-number](./0009-palindrome-number) | O(log N) | O(1) |
-| 0013 | Roman to Integer | [0013-roman-to-integer](./0013-roman-to-integer) | O(N) | O(1) |
-| 0035 | Search Insert Position | [0035-search-insert-position](./0035-search-insert-position) | O(log N) | O(1) |
-| 0053 | Maximum Subarray | [0053-maximum-subarray](./0053-maximum-subarray) | O(N) | O(1) |
-| 0066 | Plus One | [0066-plus-one](./0066-plus-one) | O(N) | O(1) |
-| 0217 | Contains Duplicate | [0217-contains-duplicate](./0217-contains-duplicate) | O(N) | O(N) |
-| 0290 | Word Pattern | [0290-word-pattern](./0290-word-pattern) | O(N) | O(N) |
-| 0412 | Fizz Buzz | [0412-fizz-buzz](./0412-fizz-buzz) | O(N) | O(1) |
-| 1108 | Defanging an IP Address | [1108-defanging-an-ip-address](./1108-defanging-an-ip-address) | O(N) | O(N) |
-| 1920 | Build Array from Permutation | [1920-build-array-from-permutation](./1920-build-array-from-permutation) | O(N) | O(N) |
-| 1929 | Concatenation of Array | [1929-concatenation-of-array](./1929-concatenation-of-array) | O(N) | O(N) |
-| 2011 | Final Value of Variable After Performing Operations | [2011-final-value-of-variable-after-performing-operations](./2011-final-value-of-variable-after-performing-operations) | O(N) | O(1) |
-| 2235 | Add Two Integers | [2235-add-two-integers](./2235-add-two-integers) | O(1) | O(1) |
-| 2236 | Root Equals Sum of Children | [2236-root-equals-sum-of-children](./2236-root-equals-sum-of-children) | O(1) | O(1) |
-| 2469 | Convert the Temperature | [2469-convert-the-temperature](./2469-convert-the-temperature) | O(1) | O(1) |
-| 3536 | Maximum Product of Two Digits | [3536-maximum-product-of-two-digits](./3536-maximum-product-of-two-digits) | O(N) | O(1) |
+| . | [.](./.) | O(N) | O(1) |
+| 0009-palindrome-number | [0009-palindrome-number](./0009-palindrome-number) | O(N) | O(1) |
+| 0013-roman-to-integer | [0013-roman-to-integer](./0013-roman-to-integer) | O(N) | O(1) |
+| 0035-search-insert-position | [0035-search-insert-position](./0035-search-insert-position) | O(N) | O(1) |
+| 0053-maximum-subarray | [0053-maximum-subarray](./0053-maximum-subarray) | O(N) | O(1) |
+| 0066-plus-one | [0066-plus-one](./0066-plus-one) | O(N) | O(1) |
+| 0067-add-binary | [0067-add-binary](./0067-add-binary) | O(N) | O(1) |
+| 0118-pascals-triangle | [0118-pascals-triangle](./0118-pascals-triangle) | O(N) | O(1) |
+| 0217-contains-duplicate | [0217-contains-duplicate](./0217-contains-duplicate) | O(N) | O(1) |
+| 0290-word-pattern | [0290-word-pattern](./0290-word-pattern) | O(N) | O(1) |
+| 0412-fizz-buzz | [0412-fizz-buzz](./0412-fizz-buzz) | O(N) | O(1) |
+| 1108-defanging-an-ip-address | [1108-defanging-an-ip-address](./1108-defanging-an-ip-address) | O(N) | O(1) |
+| 1920-build-array-from-permutation | [1920-build-array-from-permutation](./1920-build-array-from-permutation) | O(N) | O(1) |
+| 1929-concatenation-of-array | [1929-concatenation-of-array](./1929-concatenation-of-array) | O(N) | O(1) |
+| 2011-final-value-of-variable-after-performing-operations | [2011-final-value-of-variable-after-performing-operations](./2011-final-value-of-variable-after-performing-operations) | O(N) | O(1) |
+| 2235-add-two-integers | [2235-add-two-integers](./2235-add-two-integers) | O(N) | O(1) |
+| 2236-root-equals-sum-of-children | [2236-root-equals-sum-of-children](./2236-root-equals-sum-of-children) | O(N) | O(1) |
+| 2469-convert-the-temperature | [2469-convert-the-temperature](./2469-convert-the-temperature) | O(N) | O(1) |
+| 3536-maximum-product-of-two-digits | [3536-maximum-product-of-two-digits](./3536-maximum-product-of-two-digits) | O(N) | O(1) |
 
----
 
 ## 📂 Project Structure
 
