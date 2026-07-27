@@ -53,32 +53,59 @@ Automatically updated list of solved problems:
 ├── update_readme.py         # Python script to automatically update the README
 └── README.md                # Project documentation
 ```
-# LeetCode Topics
+# 🏷️ LeetCode Topics
+
 ## Array & String
 | Problem Name | Difficulty |
 | ------- | ------- |
-| | |
+| [0009-palindrome-number](./0009-palindrome-number) | Easy |
+| [0013-roman-to-integer](./0013-roman-to-integer) | Easy |
+| [0035-search-insert-position](./0035-search-insert-position) | Easy |
+| [0053-maximum-subarray](./0053-maximum-subarray) | Medium |
+| [0066-plus-one](./0066-plus-one) | Easy |
+| [0290-word-pattern](./0290-word-pattern) | Easy |
+| [0412-fizz-buzz](./0412-fizz-buzz) | Easy |
+| [1108-defanging-an-ip-address](./1108-defanging-an-ip-address) | Easy |
+| [1920-build-array-from-permutation](./1920-build-array-from-permutation) | Easy |
+| [1929-concatenation-of-array](./1929-concatenation-of-array) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](./2011-final-value-of-variable-after-performing-operations) | Easy |
 
 ## Hash Table & Set
 | Problem Name | Difficulty |
 | ------- | ------- |
-| | |
+| [0013-roman-to-integer](./0013-roman-to-integer) | Easy |
+| [0217-contains-duplicate](./0217-contains-duplicate) | Easy |
+| [0290-word-pattern](./0290-word-pattern) | Easy |
 
-## Two Pointers & Sliding Window
+## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
-| | |
+| [0053-maximum-subarray](./0053-maximum-subarray) | Medium |
 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
-| | |
+| [0035-search-insert-position](./0035-search-insert-position) | Easy |
 
-## Stack & Queue
+## Trees & Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
-| | |
+| [2236-root-equals-sum-of-children](./2236-root-equals-sum-of-children) | Easy |
 
+## Bit Manipulation & Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](./0009-palindrome-number) | Easy |
+| [0066-plus-one](./0066-plus-one) | Easy |
+| [0412-fizz-buzz](./0412-fizz-buzz) | Easy |
+| [2235-add-two-integers](./2235-add-two-integers) | Easy |
+| [2469-convert-the-temperature](./2469-convert-the-temperature) | Easy |
+| [3536-maximum-product-of-two-digits](./3536-maximum-product-of-two-digits) | Easy |
+
+## Simulation & Operations
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2011-final-value-of-variable-after-performing-operations](./2011-final-value-of-variable-after-performing-operations) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
