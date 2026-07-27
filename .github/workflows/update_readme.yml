@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+      - master
+      - leetcode
 
 jobs:
   update-readme:
