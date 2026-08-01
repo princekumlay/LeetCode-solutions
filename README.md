@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/princekumlay/LeetCode-solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0125-valid-palindrome](https://github.com/princekumlay/LeetCode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/princekumlay/LeetCode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0709-to-lower-case](https://github.com/princekumlay/LeetCode-solutions/tree/main/0709-to-lower-case/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/princekumlay/LeetCode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -54,6 +55,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/princekumlay/LeetCode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/princekumlay/LeetCode-solutions/tree/main/0344-reverse-string/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
