@@ -50,6 +50,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0119-pascals-triangle-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0136-single-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0136-single-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/princekumlay/LeetCode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/princekumlay/LeetCode-solutions/tree/main/0877-stone-game/) | Medium |
@@ -71,6 +72,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0119-pascals-triangle-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0486-predict-the-winner](https://github.com/princekumlay/LeetCode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/princekumlay/LeetCode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/princekumlay/LeetCode-solutions/tree/main/1406-stone-game-iii/) | Hard |
