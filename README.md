@@ -130,10 +130,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/princekumlay/LeetCode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/princekumlay/LeetCode-solutions/tree/main/0100-same-tree/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/princekumlay/LeetCode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/princekumlay/LeetCode-solutions/tree/main/0100-same-tree/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/princekumlay/LeetCode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -159,8 +161,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/princekumlay/LeetCode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/princekumlay/LeetCode-solutions/tree/main/0100-same-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/princekumlay/LeetCode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/princekumlay/LeetCode-solutions/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
