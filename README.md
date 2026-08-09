@@ -139,12 +139,14 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/princekumlay/LeetCode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/princekumlay/LeetCode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/princekumlay/LeetCode-solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0112-path-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/0112-path-sum/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/princekumlay/LeetCode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/princekumlay/LeetCode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/princekumlay/LeetCode-solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0112-path-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/0112-path-sum/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/princekumlay/LeetCode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -172,10 +174,12 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/princekumlay/LeetCode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/princekumlay/LeetCode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/princekumlay/LeetCode-solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0112-path-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/0112-path-sum/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/princekumlay/LeetCode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/princekumlay/LeetCode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/princekumlay/LeetCode-solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0112-path-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
