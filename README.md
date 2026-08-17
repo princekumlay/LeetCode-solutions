@@ -23,6 +23,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/0015-3sum/) | Medium |
+| [0611-valid-triangle-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/princekumlay/LeetCode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -68,6 +69,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/princekumlay/LeetCode-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0611-valid-triangle-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [2029-stone-game-ix](https://github.com/princekumlay/LeetCode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/princekumlay/LeetCode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -81,6 +83,7 @@
 | [0119-pascals-triangle-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0136-single-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0136-single-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/princekumlay/LeetCode-solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0611-valid-triangle-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0877-stone-game](https://github.com/princekumlay/LeetCode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/princekumlay/LeetCode-solutions/tree/main/1406-stone-game-iii/) | Hard |
@@ -104,6 +107,7 @@
 | [0125-valid-palindrome](https://github.com/princekumlay/LeetCode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/princekumlay/LeetCode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0344-reverse-string](https://github.com/princekumlay/LeetCode-solutions/tree/main/0344-reverse-string/) | Easy |
+| [0611-valid-triangle-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/princekumlay/LeetCode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -151,6 +155,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/princekumlay/LeetCode-solutions/tree/main/0069-sqrtx/) | Easy |
+| [0611-valid-triangle-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0611-valid-triangle-number/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
