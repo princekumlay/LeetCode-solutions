@@ -40,6 +40,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/princekumlay/LeetCode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/princekumlay/LeetCode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/princekumlay/LeetCode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -72,6 +73,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/princekumlay/LeetCode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0611-valid-triangle-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0611-valid-triangle-number/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/princekumlay/LeetCode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2029-stone-game-ix](https://github.com/princekumlay/LeetCode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/princekumlay/LeetCode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -91,6 +93,7 @@
 | [0611-valid-triangle-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0877-stone-game](https://github.com/princekumlay/LeetCode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/princekumlay/LeetCode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/princekumlay/LeetCode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/princekumlay/LeetCode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/princekumlay/LeetCode-solutions/tree/main/2029-stone-game-ix/) | Medium |
@@ -104,6 +107,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0136-single-number/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/princekumlay/LeetCode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/princekumlay/LeetCode-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
