@@ -9,6 +9,7 @@
 | [0125-valid-palindrome](https://github.com/princekumlay/LeetCode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/princekumlay/LeetCode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0242-valid-anagram](https://github.com/princekumlay/LeetCode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/princekumlay/LeetCode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0709-to-lower-case](https://github.com/princekumlay/LeetCode-solutions/tree/main/0709-to-lower-case/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/princekumlay/LeetCode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -25,6 +26,7 @@
 | [0015-3sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/princekumlay/LeetCode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/princekumlay/LeetCode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/princekumlay/LeetCode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0611-valid-triangle-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -43,6 +45,7 @@
 | [0001-two-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/princekumlay/LeetCode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/princekumlay/LeetCode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/princekumlay/LeetCode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/princekumlay/LeetCode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/princekumlay/LeetCode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
