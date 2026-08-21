@@ -24,6 +24,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/princekumlay/LeetCode-solutions/tree/main/0075-sort-colors/) | Medium |
+| [0217-contains-duplicate](https://github.com/princekumlay/LeetCode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0611-valid-triangle-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -41,6 +42,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/princekumlay/LeetCode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0217-contains-duplicate](https://github.com/princekumlay/LeetCode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/princekumlay/LeetCode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/princekumlay/LeetCode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -92,6 +94,7 @@
 | [0075-sort-colors](https://github.com/princekumlay/LeetCode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0136-single-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0136-single-number/) | Easy |
+| [0217-contains-duplicate](https://github.com/princekumlay/LeetCode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/princekumlay/LeetCode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0486-predict-the-winner](https://github.com/princekumlay/LeetCode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0611-valid-triangle-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0611-valid-triangle-number/) | Medium |
