@@ -29,6 +29,7 @@
 | [0075-sort-colors](https://github.com/princekumlay/LeetCode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/princekumlay/LeetCode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/princekumlay/LeetCode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/princekumlay/LeetCode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0611-valid-triangle-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -37,6 +38,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/princekumlay/LeetCode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2029-stone-game-ix](https://github.com/princekumlay/LeetCode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/princekumlay/LeetCode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -49,6 +51,7 @@
 | [0141-linked-list-cycle](https://github.com/princekumlay/LeetCode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/princekumlay/LeetCode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/princekumlay/LeetCode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/princekumlay/LeetCode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/princekumlay/LeetCode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/princekumlay/LeetCode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -104,6 +107,7 @@
 | [0136-single-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/princekumlay/LeetCode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/princekumlay/LeetCode-solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/princekumlay/LeetCode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/princekumlay/LeetCode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0611-valid-triangle-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0877-stone-game](https://github.com/princekumlay/LeetCode-solutions/tree/main/0877-stone-game/) | Medium |
@@ -291,4 +295,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/princekumlay/LeetCode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/princekumlay/LeetCode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/princekumlay/LeetCode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/princekumlay/LeetCode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/princekumlay/LeetCode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
