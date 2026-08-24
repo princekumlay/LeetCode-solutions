@@ -55,6 +55,7 @@
 | [0242-valid-anagram](https://github.com/princekumlay/LeetCode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/princekumlay/LeetCode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/princekumlay/LeetCode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/princekumlay/LeetCode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/princekumlay/LeetCode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -126,6 +127,7 @@
 | [1872-stone-game-viii](https://github.com/princekumlay/LeetCode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/princekumlay/LeetCode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/princekumlay/LeetCode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/princekumlay/LeetCode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/princekumlay/LeetCode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/princekumlay/LeetCode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -286,6 +288,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/princekumlay/LeetCode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/princekumlay/LeetCode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/princekumlay/LeetCode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/princekumlay/LeetCode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Segment Tree
