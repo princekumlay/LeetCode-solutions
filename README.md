@@ -75,6 +75,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/princekumlay/LeetCode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0069-sqrtx](https://github.com/princekumlay/LeetCode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/princekumlay/LeetCode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
