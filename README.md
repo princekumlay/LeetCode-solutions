@@ -82,6 +82,7 @@
 | [0168-excel-sheet-column-title](https://github.com/princekumlay/LeetCode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/princekumlay/LeetCode-solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/princekumlay/LeetCode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/princekumlay/LeetCode-solutions/tree/main/1406-stone-game-iii/) | Hard |
@@ -190,6 +191,7 @@
 | [0042-trapping-rain-water](https://github.com/princekumlay/LeetCode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0119-pascals-triangle-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0486-predict-the-winner](https://github.com/princekumlay/LeetCode-solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/princekumlay/LeetCode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/princekumlay/LeetCode-solutions/tree/main/1406-stone-game-iii/) | Hard |
@@ -200,6 +202,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/princekumlay/LeetCode-solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -370,4 +373,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/princekumlay/LeetCode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
