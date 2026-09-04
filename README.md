@@ -159,6 +159,7 @@
 | [3731-find-missing-elements](https://github.com/princekumlay/LeetCode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/princekumlay/LeetCode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/princekumlay/LeetCode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,6 +190,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princekumlay/LeetCode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/princekumlay/LeetCode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1872-stone-game-viii](https://github.com/princekumlay/LeetCode-solutions/tree/main/1872-stone-game-viii/) | Hard |
+| [3903-smallest-stable-index-i](https://github.com/princekumlay/LeetCode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
