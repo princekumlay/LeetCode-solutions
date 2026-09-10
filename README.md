@@ -271,6 +271,7 @@
 | [0100-same-tree](https://github.com/princekumlay/LeetCode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/princekumlay/LeetCode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/0112-path-sum/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/princekumlay/LeetCode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/princekumlay/LeetCode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -311,6 +312,7 @@
 | [0100-same-tree](https://github.com/princekumlay/LeetCode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/princekumlay/LeetCode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/0112-path-sum/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/princekumlay/LeetCode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -318,6 +320,7 @@
 | [0100-same-tree](https://github.com/princekumlay/LeetCode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/princekumlay/LeetCode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/0112-path-sum/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/princekumlay/LeetCode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
