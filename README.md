@@ -142,6 +142,7 @@
 | [0486-predict-the-winner](https://github.com/princekumlay/LeetCode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0611-valid-triangle-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/princekumlay/LeetCode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0835-image-overlap](https://github.com/princekumlay/LeetCode-solutions/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/princekumlay/LeetCode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/princekumlay/LeetCode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -397,6 +398,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/princekumlay/LeetCode-solutions/tree/main/0835-image-overlap/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/princekumlay/LeetCode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
