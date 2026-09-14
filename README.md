@@ -87,6 +87,7 @@
 | [0171-excel-sheet-column-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/princekumlay/LeetCode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0836-rectangle-overlap](https://github.com/princekumlay/LeetCode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/princekumlay/LeetCode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/princekumlay/LeetCode-solutions/tree/main/1406-stone-game-iii/) | Hard |
@@ -404,4 +405,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/princekumlay/LeetCode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
