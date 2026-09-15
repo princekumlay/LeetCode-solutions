@@ -37,6 +37,7 @@
 | [0049-group-anagrams](https://github.com/princekumlay/LeetCode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/princekumlay/LeetCode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/princekumlay/LeetCode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/princekumlay/LeetCode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/princekumlay/LeetCode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/princekumlay/LeetCode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/princekumlay/LeetCode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -50,6 +51,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/princekumlay/LeetCode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/princekumlay/LeetCode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2029-stone-game-ix](https://github.com/princekumlay/LeetCode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -64,6 +66,7 @@
 | [0049-group-anagrams](https://github.com/princekumlay/LeetCode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/princekumlay/LeetCode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/princekumlay/LeetCode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0169-majority-element](https://github.com/princekumlay/LeetCode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/princekumlay/LeetCode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/princekumlay/LeetCode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/princekumlay/LeetCode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -141,6 +144,7 @@
 | [0119-pascals-triangle-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/princekumlay/LeetCode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/princekumlay/LeetCode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/princekumlay/LeetCode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/princekumlay/LeetCode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/princekumlay/LeetCode-solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -387,6 +391,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/princekumlay/LeetCode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/princekumlay/LeetCode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -418,4 +423,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/princekumlay/LeetCode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/princekumlay/LeetCode-solutions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
