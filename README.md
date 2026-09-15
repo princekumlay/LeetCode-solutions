@@ -133,6 +133,7 @@
 | [0001-two-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/princekumlay/LeetCode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/princekumlay/LeetCode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/princekumlay/LeetCode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/princekumlay/LeetCode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/princekumlay/LeetCode-solutions/tree/main/0075-sort-colors/) | Medium |
@@ -188,6 +189,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/princekumlay/LeetCode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/princekumlay/LeetCode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/princekumlay/LeetCode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/princekumlay/LeetCode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/princekumlay/LeetCode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
