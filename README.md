@@ -19,6 +19,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1927-sum-game](https://github.com/princekumlay/LeetCode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/princekumlay/LeetCode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/princekumlay/LeetCode-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/princekumlay/LeetCode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/princekumlay/LeetCode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -119,6 +120,7 @@
 | [1927-sum-game](https://github.com/princekumlay/LeetCode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/princekumlay/LeetCode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/princekumlay/LeetCode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/princekumlay/LeetCode-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/princekumlay/LeetCode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/princekumlay/LeetCode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -191,6 +193,7 @@
 | [0283-move-zeroes](https://github.com/princekumlay/LeetCode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/princekumlay/LeetCode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0611-valid-triangle-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0611-valid-triangle-number/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/princekumlay/LeetCode-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/princekumlay/LeetCode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/princekumlay/LeetCode-solutions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Prefix Sum
@@ -217,6 +220,7 @@
 | [1406-stone-game-iii](https://github.com/princekumlay/LeetCode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/princekumlay/LeetCode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1872-stone-game-viii](https://github.com/princekumlay/LeetCode-solutions/tree/main/1872-stone-game-viii/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/princekumlay/LeetCode-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/princekumlay/LeetCode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/princekumlay/LeetCode-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Recursion
