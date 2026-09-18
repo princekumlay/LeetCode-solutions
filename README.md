@@ -17,6 +17,7 @@
 | [0657-robot-return-to-origin](https://github.com/princekumlay/LeetCode-solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/princekumlay/LeetCode-solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/princekumlay/LeetCode-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/princekumlay/LeetCode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/princekumlay/LeetCode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/princekumlay/LeetCode-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -43,6 +44,7 @@
 | [0274-h-index](https://github.com/princekumlay/LeetCode-solutions/tree/main/0274-h-index/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/princekumlay/LeetCode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0611-valid-triangle-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0611-valid-triangle-number/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/princekumlay/LeetCode-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/princekumlay/LeetCode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -74,6 +76,7 @@
 | [0347-top-k-frequent-elements](https://github.com/princekumlay/LeetCode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/princekumlay/LeetCode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/princekumlay/LeetCode-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/princekumlay/LeetCode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/princekumlay/LeetCode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -130,6 +133,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0611-valid-triangle-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/princekumlay/LeetCode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/princekumlay/LeetCode-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/princekumlay/LeetCode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/princekumlay/LeetCode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/princekumlay/LeetCode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
