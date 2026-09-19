@@ -1,9 +1,9 @@
 class Solution {
 public:
     int maxArea(vector<int>& height) {
+        int maxWater = 0;
 
         //O(n^2) approach
-        int maxWater = 0;
         // for(int i = 0; i < height.size() - 1; i++){
         //     for(int j = i + 1; j < height.size(); j++){
         //         maxWater = max(maxWater, ((j - i) * min(height[i], height[j])));
