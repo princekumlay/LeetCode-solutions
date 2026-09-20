@@ -27,6 +27,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/princekumlay/LeetCode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/princekumlay/LeetCode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/princekumlay/LeetCode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/princekumlay/LeetCode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/princekumlay/LeetCode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -424,6 +425,7 @@
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/princekumlay/LeetCode-solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/princekumlay/LeetCode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/princekumlay/LeetCode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
