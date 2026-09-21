@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/princekumlay/LeetCode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/princekumlay/LeetCode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/princekumlay/LeetCode-solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0076-minimum-window-substring](https://github.com/princekumlay/LeetCode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0115-distinct-subsequences](https://github.com/princekumlay/LeetCode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/princekumlay/LeetCode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/princekumlay/LeetCode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -73,6 +74,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/princekumlay/LeetCode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/princekumlay/LeetCode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0049-group-anagrams](https://github.com/princekumlay/LeetCode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/princekumlay/LeetCode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/princekumlay/LeetCode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/princekumlay/LeetCode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/princekumlay/LeetCode-solutions/tree/main/0169-majority-element/) | Easy |
@@ -403,6 +405,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/princekumlay/LeetCode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/princekumlay/LeetCode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/princekumlay/LeetCode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princekumlay/LeetCode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
