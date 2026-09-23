@@ -89,6 +89,7 @@
 | [1386-cinema-seat-allocation](https://github.com/princekumlay/LeetCode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/princekumlay/LeetCode-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/princekumlay/LeetCode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/princekumlay/LeetCode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/princekumlay/LeetCode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -200,6 +201,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princekumlay/LeetCode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/princekumlay/LeetCode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/princekumlay/LeetCode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1872-stone-game-viii](https://github.com/princekumlay/LeetCode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/princekumlay/LeetCode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/princekumlay/LeetCode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -258,6 +260,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princekumlay/LeetCode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/princekumlay/LeetCode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/princekumlay/LeetCode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/princekumlay/LeetCode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1872-stone-game-viii](https://github.com/princekumlay/LeetCode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/princekumlay/LeetCode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -324,6 +327,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0611-valid-triangle-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/princekumlay/LeetCode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/princekumlay/LeetCode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/princekumlay/LeetCode-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Newton's Method
@@ -416,6 +420,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/princekumlay/LeetCode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princekumlay/LeetCode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/princekumlay/LeetCode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/princekumlay/LeetCode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/princekumlay/LeetCode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/princekumlay/LeetCode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
