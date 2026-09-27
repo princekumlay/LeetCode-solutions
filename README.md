@@ -24,6 +24,7 @@
 | [0709-to-lower-case](https://github.com/princekumlay/LeetCode-solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/princekumlay/LeetCode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/princekumlay/LeetCode-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/princekumlay/LeetCode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/princekumlay/LeetCode-solutions/tree/main/1927-sum-game/) | Medium |
@@ -397,6 +398,7 @@
 | [0042-trapping-rain-water](https://github.com/princekumlay/LeetCode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/princekumlay/LeetCode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/princekumlay/LeetCode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -515,4 +517,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/princekumlay/LeetCode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/princekumlay/LeetCode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
