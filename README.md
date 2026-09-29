@@ -118,6 +118,7 @@
 | [0168-excel-sheet-column-title](https://github.com/princekumlay/LeetCode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/princekumlay/LeetCode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/princekumlay/LeetCode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/princekumlay/LeetCode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0486-predict-the-winner](https://github.com/princekumlay/LeetCode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0507-perfect-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0507-perfect-number/) | Easy |
@@ -192,6 +193,7 @@
 | [0136-single-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/princekumlay/LeetCode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/princekumlay/LeetCode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/princekumlay/LeetCode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/princekumlay/LeetCode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/princekumlay/LeetCode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -382,6 +384,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/princekumlay/LeetCode-solutions/tree/main/0204-count-primes/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/princekumlay/LeetCode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/princekumlay/LeetCode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/princekumlay/LeetCode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -394,6 +397,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/princekumlay/LeetCode-solutions/tree/main/0204-count-primes/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/princekumlay/LeetCode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Stack
@@ -529,4 +533,16 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/princekumlay/LeetCode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/princekumlay/LeetCode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/princekumlay/LeetCode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/princekumlay/LeetCode-solutions/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/princekumlay/LeetCode-solutions/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/princekumlay/LeetCode-solutions/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
