@@ -22,6 +22,7 @@
 | [0383-ransom-note](https://github.com/princekumlay/LeetCode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/princekumlay/LeetCode-solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/princekumlay/LeetCode-solutions/tree/main/0709-to-lower-case/) | Easy |
+| [0796-rotate-string](https://github.com/princekumlay/LeetCode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/princekumlay/LeetCode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -548,4 +549,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/princekumlay/LeetCode-solutions/tree/main/0204-count-primes/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/princekumlay/LeetCode-solutions/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
