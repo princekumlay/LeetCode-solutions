@@ -9,6 +9,7 @@
 | [0006-zigzag-conversion](https://github.com/princekumlay/LeetCode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0012-integer-to-roman](https://github.com/princekumlay/LeetCode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0014-longest-common-prefix](https://github.com/princekumlay/LeetCode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/princekumlay/LeetCode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/princekumlay/LeetCode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/princekumlay/LeetCode-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0076-minimum-window-substring](https://github.com/princekumlay/LeetCode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
@@ -405,6 +406,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/princekumlay/LeetCode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/princekumlay/LeetCode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/princekumlay/LeetCode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -533,6 +535,7 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/princekumlay/LeetCode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/princekumlay/LeetCode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/princekumlay/LeetCode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/princekumlay/LeetCode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
