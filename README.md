@@ -21,6 +21,7 @@
 | [0168-excel-sheet-column-title](https://github.com/princekumlay/LeetCode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0242-valid-anagram](https://github.com/princekumlay/LeetCode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/princekumlay/LeetCode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/princekumlay/LeetCode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/princekumlay/LeetCode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/princekumlay/LeetCode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -392,6 +393,7 @@
 | [0100-same-tree](https://github.com/princekumlay/LeetCode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/princekumlay/LeetCode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/0112-path-sum/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/princekumlay/LeetCode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/princekumlay/LeetCode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/princekumlay/LeetCode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -411,6 +413,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/princekumlay/LeetCode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/princekumlay/LeetCode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Number Theory
