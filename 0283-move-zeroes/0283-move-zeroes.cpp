@@ -14,9 +14,13 @@ public:
 
        // optimized approach 
         int slow = 0; 
-        for(int fast = 0; fast < n; fast++){
-            if(nums[fast] != 0){
-                swap(nums[fast], nums[slow]);
+        for (int fast = 1; fast < nums.size(); fast++) {
+            if (nums[slow] == 0) {
+                if (nums[fast] != 0) {
+                    swap(nums[slow++], nums[fast]);
+                }
+            }
+            else{
                 slow++;
             }
         }
