@@ -209,6 +209,7 @@
 | [0042-trapping-rain-water](https://github.com/princekumlay/LeetCode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/princekumlay/LeetCode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0054-spiral-matrix](https://github.com/princekumlay/LeetCode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/princekumlay/LeetCode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/princekumlay/LeetCode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/princekumlay/LeetCode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -526,6 +527,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/princekumlay/LeetCode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/princekumlay/LeetCode-solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/princekumlay/LeetCode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/princekumlay/LeetCode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -558,6 +560,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/princekumlay/LeetCode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0835-image-overlap](https://github.com/princekumlay/LeetCode-solutions/tree/main/0835-image-overlap/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/princekumlay/LeetCode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/princekumlay/LeetCode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
