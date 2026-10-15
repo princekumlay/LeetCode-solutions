@@ -134,6 +134,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/princekumlay/LeetCode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/princekumlay/LeetCode-solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0048-rotate-image](https://github.com/princekumlay/LeetCode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/princekumlay/LeetCode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/princekumlay/LeetCode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -210,6 +211,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princekumlay/LeetCode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/princekumlay/LeetCode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/0045-jump-game-ii/) | Medium |
+| [0048-rotate-image](https://github.com/princekumlay/LeetCode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/princekumlay/LeetCode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/princekumlay/LeetCode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/princekumlay/LeetCode-solutions/tree/main/0055-jump-game/) | Medium |
@@ -562,6 +564,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/princekumlay/LeetCode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/princekumlay/LeetCode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0835-image-overlap](https://github.com/princekumlay/LeetCode-solutions/tree/main/0835-image-overlap/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/princekumlay/LeetCode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
