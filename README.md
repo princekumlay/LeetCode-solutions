@@ -155,6 +155,7 @@
 | [0204-count-primes](https://github.com/princekumlay/LeetCode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/princekumlay/LeetCode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/princekumlay/LeetCode-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/princekumlay/LeetCode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0507-perfect-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -254,6 +255,7 @@
 | [0283-move-zeroes](https://github.com/princekumlay/LeetCode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/princekumlay/LeetCode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/princekumlay/LeetCode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/princekumlay/LeetCode-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/princekumlay/LeetCode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/princekumlay/LeetCode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0611-valid-triangle-number](https://github.com/princekumlay/LeetCode-solutions/tree/main/0611-valid-triangle-number/) | Medium |
