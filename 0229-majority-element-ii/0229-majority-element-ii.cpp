@@ -5,6 +5,7 @@ public:
         int ele1 = INT_MIN, ele2 = INT_MIN;
 
         for(int i = 0; i < nums.size(); i++){
+
             if(count1 == 0 && ele2 != nums[i]){
                 count1 = 1;
                 ele1 = nums[i];
@@ -19,13 +20,14 @@ public:
                 count1--;
                 count2--;
             }
+
         }
 
         vector<int> ans;
         count1 = 0, count2 = 0;
-        for(int i = 0; i < nums.size(); i++){
-            if(ele1 == nums[i]) count1++;
-            else if(ele2 == nums[i]) count2++;
+        for(int num : nums){
+            if(ele1 == num) count1++;
+            if(ele2 == num) count2++;
         }
 
         int mini = (int)(nums.size() / 3) + 1;
