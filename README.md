@@ -137,6 +137,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/princekumlay/LeetCode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/princekumlay/LeetCode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/princekumlay/LeetCode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/princekumlay/LeetCode-solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/princekumlay/LeetCode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -177,6 +178,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/princekumlay/LeetCode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/princekumlay/LeetCode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/princekumlay/LeetCode-solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/princekumlay/LeetCode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -297,6 +299,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/princekumlay/LeetCode-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/princekumlay/LeetCode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/princekumlay/LeetCode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/princekumlay/LeetCode-solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/princekumlay/LeetCode-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/princekumlay/LeetCode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/princekumlay/LeetCode-solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -393,6 +396,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/princekumlay/LeetCode-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/princekumlay/LeetCode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/princekumlay/LeetCode-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/princekumlay/LeetCode-solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/princekumlay/LeetCode-solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/princekumlay/LeetCode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Recursion
@@ -565,6 +569,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/princekumlay/LeetCode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/princekumlay/LeetCode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/princekumlay/LeetCode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/princekumlay/LeetCode-solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -609,6 +614,7 @@
 | [0347-top-k-frequent-elements](https://github.com/princekumlay/LeetCode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/princekumlay/LeetCode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/princekumlay/LeetCode-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/princekumlay/LeetCode-solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/princekumlay/LeetCode-solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
